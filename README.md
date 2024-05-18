@@ -1,4 +1,6 @@
 # Reddit-Subreddit-data-scrape
+click here for the app : 
+https://reddit-subreddit-data-scrape-by-udit.streamlit.app/
 this script scrape post comment and comment reply from the reddit
 Certainly! Here’s a creatively crafted README.md file for your GitHub project, the "Reddit Subreddit Scraper." This README is designed to capture the essence of your application, showcasing its features and how it enhances user interaction with Reddit data through Streamlit.
 
@@ -67,8 +69,7 @@ This project is open-sourced under the MIT License. See the `LICENSE` file for m
 
 ## 📬 Contact
 
-Have questions, suggestions, or want to say hi? You can reach me at [your_email@example.com](mailto:your_email@example.com)!
+Have questions, suggestions, or want to say hi? You can reach me at [uditkumarya@gmail.com](uditkumarya@gmail.com)!
 
-Project Link: [https://github.com/yourusername/reddit-scraper](https://github.com/yourusername/reddit-scraper)
-
+Project Link: [https://github.com/SKELETORUDIT/Reddit-Subreddit-data-scrape](https://github.com/SKELETORUDIT/Reddit-Subreddit-data-scrape)
 Explore responsibly and happy scraping!
