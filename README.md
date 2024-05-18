@@ -56,9 +56,9 @@ Before starting, you'll need:
 Got an idea to make this scraper more powerful? Or a bug that needs to be squashed? Contributions are more than welcome!
 
 1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/YourAmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some amazing feature'`).
-4. Push to the branch (`git push origin feature/YourAmazingFeature`).
+2. Create your feature branch 
+3. Commit your changes
+4. Push to the branch 
 5. Open a pull request.
 
 ## 📜 License
@@ -72,13 +72,3 @@ Have questions, suggestions, or want to say hi? You can reach me at [your_email@
 Project Link: [https://github.com/yourusername/reddit-scraper](https://github.com/yourusername/reddit-scraper)
 
 Explore responsibly and happy scraping!
-```
-
-### Tips for a Unique README
-
-- **Engaging Introduction**: Draw the reader in with a unique description of what your project does and why it’s interesting.
-- **Visuals & Emojis**: Use emojis and, where possible, visuals to make your README lively and engaging.
-- **Clear Instructions**: Make installation and usage instructions as clear and simple as possible to help users get started quickly.
-- **Interactive Elements**: Suggest interactive ways users can engage with your project or contribute.
-
-This README aims to be both informative and inviting, encouraging users to not only use the tool but also to engage with its ongoing development. Adjust the content as needed to fit your project’s specifics and personal flair!
